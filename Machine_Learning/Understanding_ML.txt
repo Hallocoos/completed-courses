@@ -1,0 +1,25 @@
+Title:
+    Understanding Machine Learning by David Chappell
+
+Description:
+    Need a short, clear introduction to machine learning? Watch this.
+
+Relevant topics that it covers:
+    What is Machine Learning?
+    The Machine Learning Process
+    A Closer Look at the Machine Learning Process
+
+My Review:
+    Course gave a very detailed and thorough overview of what Machine Learning entails, its purpose, where to use it and why it is useful.
+
+Level:
+    Beginner
+
+Duration:
+    0h 43m
+
+Link:
+    https://app.pluralsight.com/library/courses/understanding-machine-learning/table-of-contents
+
+Released:
+    23 Sep 2019

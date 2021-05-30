@@ -1,0 +1,25 @@
+Title:
+    Advanced Web Scraping Tactics: Python Playbook by Pratheerth Padman
+
+Description:
+    In the Advanced Web Scraping Tactics: Python Playbook course, you'll learn how to navigate and circumvent problems 
+    such as POST forms, login pages, and button inputs that frequently come up when you're trying to scrape data from websites.
+
+Relevant topics that it covers:
+    Introducing Advanced Web Scraping & Handling Form Submissions	
+    Submitting Cookies & Button Input Values to a URL	
+    Uploading Files to a Webpage during Scraping
+
+My Review:
+
+Level:
+    Advanced
+
+Duration:
+    0h 44m
+
+Link:
+    https://app.pluralsight.com/library/courses/advanced-web-scraping-tactics-python-playbook/table-of-contents
+
+Released:
+    24 Mar 2020

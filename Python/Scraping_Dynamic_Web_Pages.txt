@@ -1,0 +1,27 @@
+Title:
+    Scraping Dynamic Web Pages with Python and Selenium by Pratheerth Padman
+
+Description:
+    In this course, you will go all the way from saying hello to Selenium to then combining it with Python and 
+    Beautiful Soup to learn all about extracting information from a dynamic webpage.
+
+Relevant topics that it covers:
+    Exploring Selenium with Python
+    Locating Elements & Navigating Dynamic Web Pages
+    Loading Selenium Page Source into Beautiful Soup
+    Overcoming Challenges and Increasing Efficiency
+
+My Review:
+    Course was very indepth and concisely showed how to scrape simple, dynamic webpages. Easy to follow and really sped up the process of understanding. Good course!
+
+Level:
+    Advanced
+
+Duration:
+    1h 7m
+
+Link:
+    https://app.pluralsight.com/library/courses/scraping-dynamic-web-pages-python-selenium/table-of-contents
+
+Released:
+    6 Jun 2019
