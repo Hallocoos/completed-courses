@@ -1,0 +1,34 @@
+Title:
+    C# Fundamentals by Scott Allen
+
+Description:
+    This course gives you everything you need to become a productive C# developer on any platform.
+    Learn the basics of reading and writing C# code in your own applications.
+
+Relevant topics that it covers:
+    C# Syntax
+    Classes and Object
+    Testing C# Code
+    Work with Reference Types and Value Types
+    Controlling the Flow of Execution
+    Building Types
+    Object-oriented Programming with C#
+
+My Review:
+    Scott Allen's course was a fantastic introduction to C#. It took things down a notch, or up depending on perspective,
+    and starting with explaining the basics of programming. Variable declaration, Objects, if statements, conditions, TDD.
+    But he did so with the intention of explaining the logic behind it e.g. he explains the difference between value and Reference
+    types, how to see what type a given datatype is and how you as the developer should approach using them. I really enjoyed this
+    course, following along and gleaning some of the insights that Scott Allen could fit into this course.
+
+Level:
+    Beginner
+
+Duration:
+    6h 5m
+
+Link:
+    https://app.pluralsight.com/library/courses/csharp-fundamentals-dev/table-of-contents
+
+Released:
+    16 Apr 2019
