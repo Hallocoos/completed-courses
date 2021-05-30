@@ -1,0 +1,30 @@
+Title:
+    Exploring Web Scraping with Python by Clarke Bishop
+
+Description:
+    The course introduces data professionals and Python developers to Web Scraping with Python. 
+    Much data is “trapped” in web pages and this course starts you down the path on how to liberate the data for your data science projects.
+
+Relevant topics that it covers:
+    Why Scrape the Web?
+    The Web Scarping Process
+    CSS Selectors and XPath
+    Is Web Scraping Legal? Is it Ethical?
+    Web Scraping Basics with Python
+    Building a Web Spider with Scrapy
+    Advanced Web Scraping with Selenium and Requests-html
+
+My Review:
+    Very good course, helped me better undestand web scraping with Python and Selenium.
+
+Level:
+    Beginner
+
+Duration:
+    1h 34m
+
+Link:
+    https://app.pluralsight.com/library/courses/exploring-web-scraping-python/table-of-contents
+
+Released:
+    7 Feb 2020
